@@ -1,0 +1,9 @@
+2,3-dimethylpentane
+3-ethylpentane
+2,2-dimethylpentane
+3-methylhexane
+2,2,3-trimethylbutane
+heptane
+3,3-dimethylpentane
+2,4-dimethylpentane
+2-methylhexane
